@@ -1,2 +1,2 @@
 # News-App
- In short, the project is a news application through which the user can see  some daily news (all news), and the user can enter the application through his email and password, and if he does not have an email, he can register a new email and enter as well.
+![1](https://user-images.githubusercontent.com/89228710/152317990-7c0bdd71-2c60-4f01-bd92-9e2f44fd1789.PNG)
